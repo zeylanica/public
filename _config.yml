@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "zeylanica / 박병현"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "겜덕후 개발자"
+  location         : "경기 광주 오포읍"
+  email            : "ppphhhbbb@nate.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
