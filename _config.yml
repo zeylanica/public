@@ -19,10 +19,10 @@ minimal_mistakes_skin    : "neon" #"air", "aqua", "contrast", "dark", "dirt", , 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "팀 명"
+title                    : "서울_7반_네더지"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "한줄 소개"
+name                     : "zeylanica / 박병현"
+description              : "겜덕후 개발자"
 url                      : "https://zeylanica.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "public"
