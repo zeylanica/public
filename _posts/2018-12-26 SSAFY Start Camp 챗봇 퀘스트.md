@@ -41,4 +41,4 @@
   - 가끔 슬롯머신이 멘션을 받으면 같은 행동을 두번씩 하는 문제점이 있다. 고쳐야 할 부분이다.
   
 # 4. Playing Screenshot
-
+![kakaotalk_20181227_170944050](https://user-images.githubusercontent.com/46038536/50471986-4d9b2d00-09fa-11e9-9c56-4633e1d4b28c.jpg)
