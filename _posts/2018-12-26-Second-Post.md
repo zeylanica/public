@@ -1,12 +1,10 @@
 
 ---
-title : 2주차 챗봇 퀘스트
+title : 2주차 챗봇 
 ---
 
----
 # SSAFY Start Camp 챗봇 퀘스트 _ SLOTMACHINE BOT
 #### 서울_7_김준희, 박병현 https://github.com/zeylanica/chatbot_project
----
 
 ## 1. Specification
 구현된 어플리케이션의 주요 기능
