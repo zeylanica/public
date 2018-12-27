@@ -1,6 +1,5 @@
-
 ---
-title : 2주차 챗봇 
+title : 2 주차 
 ---
 
 # SSAFY Start Camp 챗봇 퀘스트 _ SLOTMACHINE BOT
