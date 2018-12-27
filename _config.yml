@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "neon" #"air", "aqua", "contrast", "dark", "dirt", , 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "서울_7반_네더지"
+title                    : "zeylanica's Github Blog"
 title_separator          : "-"
 name                     : "zeylanica / 박병현"
 description              : "겜덕후 개발자"
