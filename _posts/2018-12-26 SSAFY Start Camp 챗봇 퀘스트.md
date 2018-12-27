@@ -1,5 +1,9 @@
 
 ---
+title : 2주차 챗봇 
+---
+
+---
 # SSAFY Start Camp 챗봇 퀘스트 _ SLOTMACHINE BOT
 #### 서울_7_김준희, 박병현 https://github.com/zeylanica/chatbot_project
 ---
