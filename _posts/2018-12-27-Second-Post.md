@@ -1,5 +1,5 @@
 ---
-title : 2 주차 
+title : 2nd week. Chatbot Challenge
 ---
 
 # SSAFY Start Camp 챗봇 퀘스트 _ SLOTMACHINE BOT
